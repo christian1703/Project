@@ -1,6 +1,6 @@
 from scapy.all import Ether, ARP, sendp, srp
 
-target_ip = "10.110.0.1"
+target_ip = "10.110.0.2"
 iface = "Wi-Fi"  # Nama antarmuka jaringan
 
 # Membuat ARP NonBroadcast yang akan di kirimkan ke target IP dengan antarmuka jaringan
