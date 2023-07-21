@@ -1,0 +1,36 @@
+.footer {
+    height: 200px;
+    background-color: lightblue;
+}
+
+.nav-admin {
+    height: 1000px;
+}
+
+
+/* ADMIN */
+
+.admin {
+    /* height: px !important; */
+}
+
+.nav-vertical {
+    padding-top: 20px;
+}
+
+.left-side {
+    border-right: 1px #f2f2f2 solid;
+    height: 1000px;
+}
+
+.right-side {
+    background-color: #f2f2f2;
+}
+
+.list-pesan-user {}
+
+@media (min-width: 768px) {
+    .nav-vertical {
+        margin-top: 50px;
+    }
+}
